@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="title desc">
+  <title id="title">Luxury lighting and candles product photo</title>
+  <desc id="desc">Warm lantern and candlelight on a premium dark background.</desc>
+  <defs>
+    <radialGradient id="glow" cx=".5" cy=".38" r=".55">
+      <stop offset="0" stop-color="#ffe8a3" stop-opacity=".95"/>
+      <stop offset=".42" stop-color="#d9b76e" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#0f241f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d342d"/>
+      <stop offset=".6" stop-color="#151d1a"/>
+      <stop offset="1" stop-color="#4e1c31"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="26" stdDeviation="24" flood-color="#020605" flood-opacity=".45"/>
+    </filter>
+  </defs>
+  <rect width="900" height="640" rx="42" fill="url(#bg)"/>
+  <rect width="900" height="640" rx="42" fill="url(#glow)"/>
+  <g filter="url(#shadow)">
+    <rect x="318" y="172" width="264" height="360" rx="34" fill="#101512" stroke="#d9b76e" stroke-width="18"/>
+    <path d="M362 172c12-76 164-76 176 0" fill="none" stroke="#d9b76e" stroke-width="18" stroke-linecap="round"/>
+    <rect x="378" y="264" width="144" height="190" rx="62" fill="#fff8ea" opacity=".22"/>
+    <path d="M450 254c44 44 58 86 28 126-19 25-58 25-76 0-30-40-16-82 48-126z" fill="#ffe08a"/>
+    <rect x="390" y="442" width="120" height="56" rx="14" fill="#fff8ea"/>
+  </g>
+</svg>

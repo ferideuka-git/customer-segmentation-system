@@ -1,0 +1,447 @@
+[
+  {
+    "order_id": "GS-8F3A19C0",
+    "status": "confirmed",
+    "created_at": "2026-08-19T10:15:00.000Z",
+    "user_email": "user@giftshop.com",
+    "item_count": 3,
+    "total": 35.5,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "22423",
+        "description": "REGENCY CAKESTAND 3 TIER",
+        "category": "Kitchen & Tableware",
+        "image_url": "/frontend/assets/products/kitchen-tableware.svg",
+        "unit_price": 12.75,
+        "quantity": 2,
+        "line_total": 25.5
+      },
+      {
+        "stock_code": "85123A",
+        "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+        "category": "Lighting & Candles",
+        "image_url": "/frontend/assets/products/lighting-candles.svg",
+        "unit_price": 10.0,
+        "quantity": 1,
+        "line_total": 10.0
+      }
+    ]
+  },
+  {
+    "order_id": "GS-E4FD8A92",
+    "status": "confirmed",
+    "created_at": "2026-08-19T10:38:16.233892+00:00",
+    "user_email": "test@giftshop.com",
+    "item_count": 1,
+    "total": 12.48,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "22423",
+        "description": "REGENCY CAKESTAND 3 TIER",
+        "category": "Kitchen & Tableware",
+        "image_url": "/frontend/assets/products/kitchen-tableware.svg",
+        "unit_price": 12.48,
+        "quantity": 1,
+        "line_total": 12.48,
+        "dataset_total_quantity": 12374,
+        "dataset_customer_count": 881
+      }
+    ]
+  },
+  {
+    "order_id": "GS-ADC44184",
+    "status": "confirmed",
+    "created_at": "2026-08-19T13:25:01.748921+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 2,
+    "total": 33.58,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "POST",
+        "description": "POSTAGE",
+        "category": "Stationery & Crafts",
+        "image_url": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 31.57,
+        "quantity": 1,
+        "line_total": 31.57,
+        "dataset_total_quantity": 3120,
+        "dataset_customer_count": 331
+      },
+      {
+        "stock_code": "23084",
+        "description": "RABBIT NIGHT LIGHT",
+        "category": "Lighting & Candles",
+        "image_url": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 2.01,
+        "quantity": 1,
+        "line_total": 2.01,
+        "dataset_total_quantity": 27153,
+        "dataset_customer_count": 450
+      }
+    ]
+  },
+  {
+    "order_id": "GS-55938EFE",
+    "status": "confirmed",
+    "created_at": "2026-08-21T09:38:58.573079+00:00",
+    "user_email": "user@giftshop.com",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  },
+  {
+    "order_id": "GS-A5D79B08",
+    "status": "confirmed",
+    "created_at": "2026-08-21T10:40:02.552082+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 2.89,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "85123A",
+        "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+        "category": "Home Decor",
+        "image_url": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 2.89,
+        "quantity": 1,
+        "line_total": 2.89,
+        "dataset_total_quantity": 36706,
+        "dataset_customer_count": 856
+      }
+    ]
+  },
+  {
+    "order_id": "GS-5620C4AF",
+    "status": "confirmed",
+    "created_at": "2026-08-21T10:40:30.523238+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  },
+  {
+    "order_id": "GS-57D48171",
+    "status": "confirmed",
+    "created_at": "2026-08-21T10:40:43.791393+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 1.68,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "84879",
+        "description": "ASSORTED COLOUR BIRD ORNAMENT",
+        "category": "Home Decor",
+        "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 1.68,
+        "quantity": 1,
+        "line_total": 1.68,
+        "dataset_total_quantity": 35263,
+        "dataset_customer_count": 678
+      }
+    ]
+  },
+  {
+    "order_id": "GS-B8289D8D",
+    "status": "confirmed",
+    "email_sent": true,
+    "created_at": "2026-08-21T11:25:22.060713+00:00",
+    "user_email": "testuser@giftshop.com",
+    "customer_name": "Test Customer",
+    "phone": "+383 49 999 888",
+    "address": "Rr. Agim Ramadani Nr 10, Prishtine",
+    "payment_method": "Credit/Debit Card",
+    "notes": "",
+    "item_count": 2,
+    "total": 5.78,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "85123A",
+        "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+        "category": "Home Decor",
+        "image_url": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 2.89,
+        "quantity": 2,
+        "line_total": 5.78,
+        "dataset_total_quantity": 36706,
+        "dataset_customer_count": 856
+      }
+    ]
+  },
+  {
+    "order_id": "GS-A274F5E4",
+    "status": "confirmed",
+    "created_at": "2026-08-21T11:26:19.514199+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  },
+  {
+    "order_id": "GS-B4CDE838",
+    "status": "confirmed",
+    "created_at": "2026-08-21T11:31:06.160668+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 1.68,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "84879",
+        "description": "ASSORTED COLOUR BIRD ORNAMENT",
+        "category": "Home Decor",
+        "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 1.68,
+        "quantity": 1,
+        "line_total": 1.68,
+        "dataset_total_quantity": 35263,
+        "dataset_customer_count": 678
+      }
+    ]
+  },
+  {
+    "order_id": "GS-266B33B0",
+    "status": "confirmed",
+    "created_at": "2026-08-21T11:31:30.042132+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  },
+  {
+    "order_id": "GS-BA5113FE",
+    "status": "confirmed",
+    "created_at": "2026-08-21T11:35:32.056448+00:00",
+    "user_email": "john@gmail.com",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  },
+  {
+    "order_id": "GS-FF2EA9A9",
+    "status": "confirmed",
+    "email_sent": true,
+    "created_at": "2026-08-21T11:52:11.291852+00:00",
+    "user_email": "ferideuka31@gmail.com",
+    "customer_name": "feride",
+    "phone": "+383 49 123 456",
+    "address": "Rr. Agim Ramadani, Nr. 12, Prishtin\u00eb",
+    "payment_method": "Credit/Debit Card",
+    "notes": "",
+    "item_count": 1,
+    "total": 0.55,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "21212",
+        "description": "PACK OF 72 RETROSPOT CAKE CASES",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 0.55,
+        "quantity": 1,
+        "line_total": 0.55,
+        "dataset_total_quantity": 33670,
+        "dataset_customer_count": 635
+      }
+    ]
+  },
+  {
+    "order_id": "GS-E108B6BE",
+    "status": "confirmed",
+    "email_sent": true,
+    "created_at": "2026-08-21T12:13:28.046675+00:00",
+    "user_email": "ferideuka31@gmail.com",
+    "customer_name": "feride",
+    "phone": "+383 49 123 456",
+    "address": "Rr. Agim Ramadani, Nr. 12, Prishtin\u00eb",
+    "payment_method": "Credit/Debit Card",
+    "notes": "",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  },
+  {
+    "order_id": "GS-F568D1D0",
+    "status": "confirmed",
+    "email_sent": true,
+    "created_at": "2026-08-21T13:10:05.149740+00:00",
+    "user_email": "user@giftshop.com",
+    "customer_name": "GiftShop Customer",
+    "phone": "+383 49 123 456",
+    "address": "Rr. Agim Ramadani, Nr. 12, Prishtin\u00eb",
+    "payment_method": "Credit/Debit Card",
+    "notes": "",
+    "item_count": 1,
+    "total": 2.94,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "22086",
+        "description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+        "category": "Party & Seasonal",
+        "image_url": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?auto=format&fit=crop&w=1000&q=90",
+        "unit_price": 2.94,
+        "quantity": 1,
+        "line_total": 2.94,
+        "dataset_total_quantity": 15591,
+        "dataset_customer_count": 613
+      }
+    ]
+  },
+  {
+    "order_id": "GS-CAC2CA2A",
+    "status": "confirmed",
+    "email_sent": true,
+    "created_at": "2026-08-21T13:37:16.071076+00:00",
+    "user_email": "john@gmail.com",
+    "customer_name": "john doe",
+    "phone": "+383 49 123 456",
+    "address": "Rr. Agim Ramadani, Nr. 12, Prishtin\u00eb",
+    "payment_method": "Credit/Debit Card",
+    "notes": "",
+    "item_count": 1,
+    "total": 1.68,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "84879",
+        "description": "ASSORTED COLOUR BIRD ORNAMENT",
+        "category": "Home Decor",
+        "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=90",
+        "unit_price": 1.68,
+        "quantity": 1,
+        "line_total": 1.68,
+        "dataset_total_quantity": 35263,
+        "dataset_customer_count": 678
+      }
+    ]
+  },
+  {
+    "order_id": "GS-514C4BCE",
+    "status": "confirmed",
+    "email_sent": true,
+    "created_at": "2026-08-31T22:02:40.059735+00:00",
+    "user_email": "user@giftshop.com",
+    "customer_name": "GiftShop Customer",
+    "phone": "+383 49 123 456",
+    "address": "Rr. Agim Ramadani, Nr. 12, Prishtin\u00eb",
+    "payment_method": "Credit/Debit Card",
+    "notes": "",
+    "item_count": 1,
+    "total": 4.88,
+    "currency": "GBP",
+    "source": "Storefront Live Checkout",
+    "items": [
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "category": "Kitchen & Tableware",
+        "image_url": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=1200&q=95",
+        "unit_price": 4.88,
+        "quantity": 1,
+        "line_total": 4.88,
+        "dataset_total_quantity": 15279,
+        "dataset_customer_count": 708
+      }
+    ]
+  }
+]
